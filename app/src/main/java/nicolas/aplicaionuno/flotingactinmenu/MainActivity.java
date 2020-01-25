@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         floatingActionButton2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                showToat("fan 2");
+                showToat("Esto es un boton");
             }
         });
     }
