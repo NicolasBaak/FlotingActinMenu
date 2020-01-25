@@ -23,6 +23,9 @@
             android:layout_width="wrap_content"
             android:layout_height="16dp"
             app:fab_colorNormal="@color/white"
+
+
+            
             app:fab_colorPressed="@color/white_pressed"
             app:fab_size="mini"
             app:fab_icon="@drawable/ic_add_pink"
